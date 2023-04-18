@@ -1,3 +1,7 @@
+# gstreamer_with_python is 何
+
+今までコマンドラインで実行していたgstreamerをpythonで実行する場合のサンプルコード
+
 # Installation
 
 gstreamerはCで実装されたものなのでPythonで実装するには`PyGObject`をインストールする必要がある
